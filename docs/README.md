@@ -44,6 +44,11 @@ highlights:
         details: GFM alert box
         link: ./base/
 
+      - title: 项目
+        icon: bell
+        details: 项目的背景和所用到的技术
+        link: ./project/
+
       # - title: Tabs
       #   icon: table-columns
       #   details: Group similar content with tabs and switch them together

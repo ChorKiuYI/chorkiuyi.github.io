@@ -24,6 +24,13 @@ export const enSidebar = sidebar({
       link: "browser/",
       children: "structure",
     },
+    {
+      text: "相关项目",
+      icon: "laptop-code",
+      prefix: "project/",
+      // link: "es6/",
+      children: "structure",
+    },
     // {
     //   text: "Demo",
     //   icon: "laptop-code",
