@@ -12,10 +12,14 @@ icon: lightbulb
 4. 控制台大屏显示
 5. 项目启动优化
 
-[三栏穿梭框(Server-Sent Events)](threetransfer.md)
-[组织架构图(Server-Sent Events)](echarts.md)
+### 权限平台管理子系统
+- [三栏穿梭框(Server-Sent Events)](threetransfer.md)
+- [组织架构图(Server-Sent Events)](echarts.md)
+- [服务器发送事件(Server-Sent Events)](sse.md)
 
+### 车险承保系统/车险理赔系统
+- [项目启动优化(Server-Sent Events)](webpack.md)
 
-[服务器发送事件(Server-Sent Events)](sse.md)
-[项目启动优化(Server-Sent Events)](webpack.md)
-[可视化大屏(Server-Sent Events)](largeScreen.md)
+### 监控管理系统（客服工作状态）【全屏】
+- [可视化大屏(Server-Sent Events)](largeScreen.md)
+
