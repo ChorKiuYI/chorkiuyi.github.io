@@ -1,4 +1,14 @@
 ---
+title: 非车险承保
+icon: circle-info
+---
+
+情景：非车险承保
+
+
+
+
+<!-- ---
 title: 服务器发送事件(Server-Sent Events)
 icon: circle-info
 ---
@@ -43,4 +53,4 @@ demo请看下方
 
 我更建议您先把Demo跑起来，然后在看看上面这个w3cschool的SSE文档。两个配合一起看，会更方便理解些。
 
-https://mp.weixin.qq.com/s?__biz=Mzk0NTI2NDgxNQ==&mid=2247493492&idx=1&sn=9ac1e7229e42963e92fc892bcc6eada9&chksm=c31aa6b4f46d2fa2ee2e2be418b6ded6e57c3c55daea7c25a726d1b46ed7d8372fbaa6c8bb8c&mpshare=1&scene=1&srcid=0507ly8BuunooCktRGYzReM6&sharer_shareinfo=576d23b3fb96b6d2cc6c4c9299bf4261&sharer_shareinfo_first=576d23b3fb96b6d2cc6c4c9299bf4261&exportkey=n_ChQIAhIQ5scBING6XcRxFw8MFIKUGRLkAQIE97dBBAEAAAAAADw7OaR8z1AAAAAOpnltbLcz9gKNyK89dVj07HrwYKaxF58lD7e7DyBuYWqRj4XRgfzE7Cmak3JE6g%2Bn11MpDDtfhzS1xKe7LBbJfeCcvuw2neGddgx1P8cnDZK8ZfPIZEymhwNAZ%2FxmqZUSxoLzrEBwHBm6yQRxqGiV9UPqwqgpNrwYNsgPj9zpSNx76TnGKvcvASeDTIKk6H%2FPBt6x%2F67Td1RLUFIrrz%2FU5mojtEc8vMNGz27Wq9XCpYGDOBwtH9%2BbwF3KFghomyTl5CqYqDYIzCmetiNdfw%3D%3D&acctmode=0&pass_ticket=8bVB3VqkAC9W4PaLk5RDA5AzyLdUGuInENi%2FYXk3nl0ADbuxgA%2Firk5OkKzT1n1cf12NFr%2BlaisT9GPGYBJzGg%3D%3D&wx_header=0#rd
+https://mp.weixin.qq.com/s?__biz=Mzk0NTI2NDgxNQ==&mid=2247493492&idx=1&sn=9ac1e7229e42963e92fc892bcc6eada9&chksm=c31aa6b4f46d2fa2ee2e2be418b6ded6e57c3c55daea7c25a726d1b46ed7d8372fbaa6c8bb8c&mpshare=1&scene=1&srcid=0507ly8BuunooCktRGYzReM6&sharer_shareinfo=576d23b3fb96b6d2cc6c4c9299bf4261&sharer_shareinfo_first=576d23b3fb96b6d2cc6c4c9299bf4261&exportkey=n_ChQIAhIQ5scBING6XcRxFw8MFIKUGRLkAQIE97dBBAEAAAAAADw7OaR8z1AAAAAOpnltbLcz9gKNyK89dVj07HrwYKaxF58lD7e7DyBuYWqRj4XRgfzE7Cmak3JE6g%2Bn11MpDDtfhzS1xKe7LBbJfeCcvuw2neGddgx1P8cnDZK8ZfPIZEymhwNAZ%2FxmqZUSxoLzrEBwHBm6yQRxqGiV9UPqwqgpNrwYNsgPj9zpSNx76TnGKvcvASeDTIKk6H%2FPBt6x%2F67Td1RLUFIrrz%2FU5mojtEc8vMNGz27Wq9XCpYGDOBwtH9%2BbwF3KFghomyTl5CqYqDYIzCmetiNdfw%3D%3D&acctmode=0&pass_ticket=8bVB3VqkAC9W4PaLk5RDA5AzyLdUGuInENi%2FYXk3nl0ADbuxgA%2Firk5OkKzT1n1cf12NFr%2BlaisT9GPGYBJzGg%3D%3D&wx_header=0#rd -->

@@ -1,5 +1,5 @@
 ---
-title: Foo feature
+title: JS基础笔记
 icon: lightbulb
 ---
 
@@ -9,5 +9,7 @@ We support foo feature, ...
 
 ## Details
 
-- [ray](ray.md)
+- [作用域和闭包](actionScope.md)
+- [this和对象原型（this）](this.md)
+- [this和对象原型（对象原型）](prototype.md)
 - ...

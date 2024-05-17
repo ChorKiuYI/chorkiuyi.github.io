@@ -22,6 +22,7 @@ icon: lightbulb
 - [组织架构图(Server-Sent Events)](chengbao/echarts.md)
 
 
-- [服务器发送事件(Server-Sent Events)](chengbao/sse.md)
+
 - [项目启动优化(Server-Sent Events)](chengbao/webpack.md)
 - [可视化大屏(Server-Sent Events)](chengbao/largeScreen.md)
+- [服务器发送事件(Server-Sent Events)](chengbao/sseSkill.md)

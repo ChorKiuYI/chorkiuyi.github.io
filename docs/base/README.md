@@ -24,7 +24,9 @@ icon: lightbulb
 - [12、module](es6/module.md)
 - ...
 
-### Foo
+### JS基础笔记
 
-- [ray](foo/ray.md)
+- [作用域和闭包](js/actionScope.md)
+- [this和对象原型（this）](js/this.md)
+- [this和对象原型（对象原型）](js/prototype.md)
 - ...
